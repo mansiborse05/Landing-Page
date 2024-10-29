@@ -1,0 +1,193 @@
+body {
+    background-color: #c4959d;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+.mainDiv {
+    height: 1470px;
+    width: 960px;
+    background-color: #fee8e8;
+    margin: 5rem 16rem;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.brand-name {
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 50px;
+    font-size: 60px;
+}
+
+
+.nav-options {
+    height: 30px;
+    width: 425px;
+    background-color: #dfdce7;
+    margin-top: 100px;
+    margin-right: 50px;
+    padding-left: 15px;
+    font-size: 22px;
+    border-radius: 10px;
+}
+
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.info{
+    height: 350px;
+    width: 450px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 120px;
+    padding-top: 50px;
+}
+
+
+.italic {
+    font-family: monospace;
+}
+
+
+.bold {
+    color: #6f5459;
+}
+
+
+.para01 {
+    font-size: 22px;
+}
+
+
+.para02 {
+    font-size: 18px;
+}
+
+
+.btn {
+    background-color: #dfdce7;
+    border: #6f5459;
+    color: #6f5459;
+}
+
+
+.image{
+    margin-right: 20px;
+    
+}
+
+
+.img-01 {
+    height: 400px;
+    width: 350px;
+}
+
+
+.about {
+    height: 200px;
+    width: 900px;
+    margin: 27px 29px 15px 29px;
+}
+
+
+.about-heading {
+    font-size: 20px;
+}
+
+
+.about-para {
+    font-size: 15px;
+}
+
+
+.collection-para {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+
+.collection {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.card {
+    background-color: #fdebea;
+    height: 300px;
+    width: 200px;
+    margin-left: 90px;
+    border-radius: 8px;
+}
+
+
+.card-img {
+    width: 100%;
+    border-radius: 8px;
+    height: 260px;
+}
+
+
+.card-title {
+    text-align: center;
+}
+
+
+.icon-para {
+    margin-left: 100px;
+}
+
+
+.icon-bold {
+    margin-top: 10px;
+}
+
+
+.icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    margin-right: 50px;
+    margin-top: -60px;
+}
+
+
+.icon {
+    height: 33px;
+    width: 33px;
+    margin-left: 10px;
+    background-color: #fee8e8;
+    border-radius: 50%;
+    border: black solid 2px;
+}
+
+
+.icoon1 {
+    margin: 9px;
+}
+
+
+.icoon2 {
+    margin: 10px;
+}
+
+
+.icoon3 {
+    margin: 8px;
+}
